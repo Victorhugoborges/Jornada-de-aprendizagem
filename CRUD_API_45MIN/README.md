@@ -1,6 +1,6 @@
 # API-CRUD-45MIN
 
-Api Crud simples criada com recursos oferecidos pela AWS
+Api Crud simples criada com recursos oferecidos pela AWS.
 
 Código
 ```JavaScript
@@ -72,9 +72,14 @@ exports.handler = async (event, context) => {
   };
 };
 ```
-![Função Lambda](C:\ProgressReport\Jornada-de-aprendizagem\CRUD_API_45MIN\lambda.png)
 
-![API Gateway](./CRUD_API_45MIN/Rotas.png)
+## Função Lambda
+![Função Lambda](https://github.com/Victorhugoborges/Jornada-de-aprendizagem/blob/main/CRUD_API_45MIN/lambda.png?raw=true)
 
-![DynamoDB](./CRUD_API_45MIN/bancoDeDados.png)
+
+## API Gateway
+![API Gateway](https://github.com/Victorhugoborges/Jornada-de-aprendizagem/blob/main/CRUD_API_45MIN/Rotas.png?raw=true)
+
+## DynamoDB
+![DynamoDB](https://github.com/Victorhugoborges/Jornada-de-aprendizagem/blob/main/CRUD_API_45MIN/bancoDeDados.png?raw=true)
 
